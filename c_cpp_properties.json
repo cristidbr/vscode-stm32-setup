@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "STM32 arm-none-eabi-gcc",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "STM32G031xx",
+                "DEBUG",
+                "USE_HAL_DRIVER",
+                "USE_FULL_LL_DRIVER",
+                "USE_FULL_ASSERT"
+            ],
+            "compilerPath": "/Applications/ArmGNUToolchain/12.3.rel1/arm-none-eabi/bin/arm-none-eabi-gcc",
+            "compilerArgs": [
+                "-mcpu=cortex-m0plus",
+                "-mthumb"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-gcc-arm"
+        }
+    ],
+    "version": 4
+}
