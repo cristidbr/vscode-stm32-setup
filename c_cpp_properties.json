@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "STM32 arm-none-eabi-gcc",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "STM32F303x8",
+                "DEBUG",
+                "USE_HAL_DRIVER",
+                "USE_FULL_LL_DRIVER",
+                "USE_FULL_ASSERT"
+            ],
+            "compilerPath": "C:/VSARM/armcc/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mthumb"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-arm"
+        }
+    ],
+    "version": 4
+}
