@@ -13,9 +13,6 @@
                 "USE_FULL_ASSERT"
             ],
             "compilerPath": "C:/VSARM/armcc/bin/arm-none-eabi-gcc.exe",
-            "compilerArgs": [
-                "-mthumb"
-            ],
             "cStandard": "c11",
             "cppStandard": "c++17",
             "intelliSenseMode": "windows-gcc-arm"
