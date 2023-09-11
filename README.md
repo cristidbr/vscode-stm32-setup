@@ -16,6 +16,7 @@ cd .vscode
 curl -LO https://raw.githubusercontent.com/cristidbr/vscode-stm32-setup/win-x86_64/c_cpp_properties.json
 curl -LO https://raw.githubusercontent.com/cristidbr/vscode-stm32-setup/win-x86_64/tasks.json
 curl -LO https://raw.githubusercontent.com/cristidbr/vscode-stm32-setup/win-x86_64/settings.json
+curl -LO https://raw.githubusercontent.com/cristidbr/vscode-stm32-setup/win-x86_64/launch.json
 cd ..
 ```
 
