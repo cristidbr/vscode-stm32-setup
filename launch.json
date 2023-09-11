@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug (STUtil)",
+            "type": "cortex-debug",
+            "request": "launch",
+            "servertype": "stutil",
+            "cwd": "${workspaceRoot}",
+            "executable": "${workspaceRoot}/build/vsarm_firmware.elf",
+            "device": "STM32F303K8",
+            "v1": false,
+            "svdFile": "${workspaceRoot}/STM32F303.svd"
+        }
+    ]
+}
