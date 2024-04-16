@@ -2,7 +2,7 @@
 
 Supporting tutorials:
 - [Using Visual Studio Code with STM32CubeMX for ARM Development](https://hbfsrobotics.com/blog/configuring-vs-code-arm-development-stm32cubemx) - Windows 
-- [VS Code Setup for STM32 ARM Development](https://medium.com/@cristian.dbr/vs-code-setup-for-stm32-arm-development-on-apple-silicon-mac-e244b789bde1) - macOS
+- [VS Code Setup for STM32 ARM Development](https://crsdbr.com/vs-code-setup-for-stm32-arm-development-on-apple-silicon-mac-e244b789bde1) - macOS
 
 ## Usage
 
